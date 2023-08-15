@@ -1,2 +1,1 @@
-# Internship_certificate
-Innternship_certificate
+Certificates
